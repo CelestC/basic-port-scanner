@@ -8,3 +8,8 @@ This is a simple Python port scanner that checks for open ports on a target syst
 
 ## Why I built this
 I am learning cybersecurity and exploring how networks and system vulnerabilities work.
+## Technologies Used
+- Python
+
+## Author
+Celeste – Aspiring Cybersecurity Analyst
